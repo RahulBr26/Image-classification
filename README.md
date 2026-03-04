@@ -1,4 +1,4 @@
-📌 Image Classification using YOLOv11
+📌 Image Classification using YOLOv8
 
 This project focuses on building an image classification system using the YOLOv11 model from the Ultralytics library. The model is trained on a custom dataset and can classify images either from stored files or live webcam feed.
 
